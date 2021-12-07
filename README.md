@@ -11,4 +11,6 @@ I study from the materials that I find on the Internet.<br>
 <br>
 🥰 Therefore, any of your comments, hints, tips and recommendations are welcome! 🥰<br>
 
+## The problems
 
+- [Checking characters in a string for uniqueness](https://github.com/evgadamov/swift-algorithms/blob/main/Task1.swift)
