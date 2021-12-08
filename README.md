@@ -17,7 +17,6 @@ I study from the materials that I find on the Internet.<br>
 
 ## Solving problems with LeetCode
 
-1. Two Sum
+1. [Two Sum](https://leetcode.com/problems/two-sum/)
     * [My solution](https://github.com/evgadamov/swift-algorithms/blob/main/LeetCode1TwoSumm.swift)
-    * [Link to the task on the LeetCode](https://leetcode.com/problems/two-sum/)
 
