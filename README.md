@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Welcome! This is my solutions for algorithmic problems on Swift!
+# 🧑🏻‍💻 Welcome! This is my solutions to algorithmic problems on Swift!
 
 Here you will find my solutions to algorithmic problems on Swift.<br>
 I do not pretend that my solutions are educational or exemplary.<br>
