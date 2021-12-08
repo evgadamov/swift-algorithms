@@ -14,3 +14,10 @@ I study from the materials that I find on the Internet.<br>
 ## The problems
 
 - [Checking characters in a string for uniqueness](https://github.com/evgadamov/swift-algorithms/blob/main/Task1.swift)
+
+## Solving problems with LeetCode
+
+1. Two Sum
+    * [My solution]()
+    * [Link to the task on the LeetCode](https://leetcode.com/problems/two-sum/)
+
