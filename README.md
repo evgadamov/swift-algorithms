@@ -19,4 +19,6 @@ I study from the materials that I find on the Internet.<br>
 
 1. [Two Sum](https://leetcode.com/problems/two-sum/)
     * [My solution](https://github.com/evgadamov/swift-algorithms/blob/main/LeetCode1TwoSumm.swift)
+28. [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+	* [My solution](LeetCode28Implement_strStr.swift)
 
