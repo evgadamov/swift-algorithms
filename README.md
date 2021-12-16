@@ -1,5 +1,9 @@
 # 🧑🏻‍💻 Welcome! This is my solutions to algorithmic problems on Swift!
 
+> ***"I hear and I forget.
+>  I see and I remember.
+>  I do and I understand."***
+
 Here you will find my solutions to algorithmic problems on Swift.<br>
 I do not pretend that my solutions are educational or exemplary.<br>
 This is a reflection of my learning path in this field and an attempt to get useful lessons from you!<br>
