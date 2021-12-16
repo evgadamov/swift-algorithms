@@ -3,6 +3,7 @@
 > ***"I hear and I forget.
 >  I see and I remember.
 >  I do and I understand."***
+>  Confucius (Chinese philosopher, 551 - 479 BC)
 
 Here you will find my solutions to algorithmic problems on Swift.<br>
 I do not pretend that my solutions are educational or exemplary.<br>
